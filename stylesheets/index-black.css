@@ -1,0 +1,91 @@
+img{
+	width: 90%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	font-family: Rouge script;
+	font-size: 300%;
+	margin-left: 1.66%;
+	border-bottom: 2px solid #f1f1f1;
+	padding-bottom:15px;
+	text-align: center;
+	clear:both;
+}
+
+.navItem{
+	margin: 3%;
+	float:left;
+	margin-top: 10px;
+	padding: 13px 4px 13px 4px;
+}
+.navItem:hover{
+	font-size:larger; 
+	padding: 0;
+	font-weight: 500;
+}
+
+a{
+	text-decoration: none;
+    color: crimson;
+}
+
+.authButton{
+	float: right;
+}
+
+.product{
+	height: 400px;
+	width: 400px;
+	float: left;
+	border: 1px solid;
+
+}
+
+.price{
+	clear: both;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
+
+h2{
+	text-align: center;
+}
+
+#thumbnail{
+	width: 100px;
+}
+table{
+	clear:both;
+}
+h1{
+	clear: both;
+}
+
+.loginForm {
+	clear: both;
+}
+
+.footerElement{
+	float:left;
+	margin-left:10px;
+}
+
+
+body{
+    background-color: #170B3B;
+    color: blanchedalmond;
+    margin: 0 10% 0 10%;
+}
+
+.product form {
+    text-align: center;
+}
+h4{
+    margin-bottom: 15px;
+}
+
+.container{
+    border-top: solid 1px white;
+}
